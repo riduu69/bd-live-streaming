@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "BTV",
+    "displayName": "Bangladesh Television",
+    "description": "National broadcaster of Bangladesh",
+    "logo": "https://via.placeholder.com/100?text=BTV",
+    "category": "National",
+    "streamUrl": "https://[YOUR_STREAM_URL]/btv",
+    "isLive": true,
+    "viewers": 145000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 2,
+    "name": "DBC",
+    "displayName": "Desh Bangla Channel",
+    "description": "24/7 News and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=DBC",
+    "category": "News",
+    "streamUrl": "https://[YOUR_STREAM_URL]/dbc",
+    "isLive": true,
+    "viewers": 98000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 3,
+    "name": "Channel i",
+    "displayName": "Channel i Bangladesh",
+    "description": "Entertainment and News",
+    "logo": "https://via.placeholder.com/100?text=Channel+i",
+    "category": "Entertainment",
+    "streamUrl": "https://[YOUR_STREAM_URL]/channeli",
+    "isLive": true,
+    "viewers": 156000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 4,
+    "name": "RTV",
+    "displayName": "Rtv Bangladesh",
+    "description": "News, Drama and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=RTV",
+    "category": "General",
+    "streamUrl": "https://[YOUR_STREAM_URL]/rtv",
+    "isLive": true,
+    "viewers": 87000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 5,
+    "name": "Jamuna TV",
+    "displayName": "Jamuna Television",
+    "description": "News and Current Affairs",
+    "logo": "https://via.placeholder.com/100?text=Jamuna",
+    "category": "News",
+    "streamUrl": "https://[YOUR_STREAM_URL]/jamuna",
+    "isLive": true,
+    "viewers": 102000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 6,
+    "name": "NTV",
+    "displayName": "NTV Bangladesh",
+    "description": "24/7 News Channel",
+    "logo": "https://via.placeholder.com/100?text=NTV",
+    "category": "News",
+    "streamUrl": "https://[YOUR_STREAM_URL]/ntv",
+    "isLive": true,
+    "viewers": 76000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 7,
+    "name": "Independent TV",
+    "displayName": "Independent Television",
+    "description": "News and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=ITV",
+    "category": "News",
+    "streamUrl": "https://[YOUR_STREAM_URL]/itv",
+    "isLive": true,
+    "viewers": 93000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 8,
+    "name": "ATN Bangla",
+    "displayName": "ATN Bangla",
+    "description": "Drama and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=ATN",
+    "category": "Entertainment",
+    "streamUrl": "https://[YOUR_STREAM_URL]/atnbangla",
+    "isLive": true,
+    "viewers": 124000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 9,
+    "name": "Boishakhi TV",
+    "displayName": "Boishakhi Television",
+    "description": "Music and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=Boishakhi",
+    "category": "Entertainment",
+    "streamUrl": "https://[YOUR_STREAM_URL]/boishakhi",
+    "isLive": true,
+    "viewers": 65000,
+    "quality": ["720p", "480p", "360p"]
+  },
+  {
+    "id": 10,
+    "name": "Asian TV",
+    "displayName": "Asian Television Network",
+    "description": "Movies and Entertainment",
+    "logo": "https://via.placeholder.com/100?text=Asian+TV",
+    "category": "Entertainment",
+    "streamUrl": "https://[YOUR_STREAM_URL]/asiantv",
+    "isLive": true,
+    "viewers": 89000,
+    "quality": ["720p", "480p", "360p"]
+  }
+]
